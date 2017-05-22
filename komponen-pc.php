@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="">
+        <meta name="author" content="">
+
+        <title>X RPL 2</title>
+
+        <!-- Bootstrap Core CSS -->
+        <link href="https://blackrockdigital.github.io/startbootstrap-sb-admin-2/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+        <!-- MetisMenu CSS -->
+        <link href="https://blackrockdigital.github.io/startbootstrap-sb-admin-2/vendor/metisMenu/metisMenu.min.css" rel="stylesheet">
+
+        <!-- Custom CSS -->
+        <link href="https://blackrockdigital.github.io/startbootstrap-sb-admin-2/dist/css/sb-admin-2.css" rel="stylesheet">
+
+        <!-- Custom Fonts -->
+        <link href="https://blackrockdigital.github.io/startbootstrap-sb-admin-2/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    </head>
+    <body>
+
+        <div id="wrapper">
+
+            <!-- Navigation -->
+            <nav class="navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom: 0">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/">X RPL 2</a>
+                </div>
+                <!-- /.navbar-header -->
+
+                <ul class="nav navbar-top-links navbar-right">
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="#">
+                            Guest
+                        </a>
+                    </li>
+                    <!-- /.dropdown -->
+                </ul>
+                <!-- /.navbar-top-links -->
+
+                <div class="navbar-default sidebar" role="navigation">
+                    <div class="sidebar-nav navbar-collapse">
+                        <ul class="nav" id="side-menu">
+                            <li class="sidebar-search">
+                                <form action="https://google.co.id" method="get">
+                                    <div class="input-group custom-search-form">
+                                        <input name="q" type="text" class="form-control" placeholder="Search...">
+                                        <span class="input-group-btn">
+                                            <button class="btn btn-default" type="button">
+                                                <i class="fa fa-search"></i>
+                                            </button>
+                                        </span>
+                                    </div>
+                                </form>
+                                <!-- /input-group -->
+                            </li>
+                            <li>
+                                <a href="index.php"><i class="fa fa-home fa-fw"></i> Halaman Utama</a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fa fa-desktop fa-fw"></i> Tentang Komputer<span class="fa arrow"></span></a>
+                                <ul class="nav nav-second-level">
+                                    <li>
+                                        <a href="tips-merakit.php">Tips Merakit PC Murah</a>
+                                    </li>
+                                    <li>
+                                        <a href="komponen-pc.php">Komponen - Komponen pada PC</a>
+                                    </li>
+                                </ul>
+                                <!-- /.nav-second-level -->
+                            </li>
+                            <li>
+                                <a href="aboutus.php"><i class="fa fa-users fa-fw"></i> Tentang Kami</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- /.sidebar-collapse -->
+                </div>
+                <!-- /.navbar-static-side -->
+            </nav>
+
+            <div id="page-wrapper">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h1 class="page-header">Komponen dalam PC</h1>
+                    </div>
+                    <!-- /.col-lg-12 -->
+                </div>
+                <!-- /.row -->
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="panel panel-info">
+                            <div class="panel-heading">
+                                <div class="panel-title">List komponen dalam PC/CPU</div>
+                            </div>
+                            <div class="panel-body">
+                                Berikut, kumpulan komponen dalam CPU : <hr>
+                                <center>
+                                    <h3>Case PC</h3>
+                                    <img src="http://1.bp.blogspot.com/-yXbQgm7R4L8/UpYWPXWVLMI/AAAAAAAABdA/GGs11kWQYFg/s1600/1361345886_468898178_3-Jual-casing-pc-transparan-Jakarta.jpg" class="img-circle" style="width:100px" /><br/><br/>
+                                    Casing merupakan bagian komputer yang berfungsi sebagai pakaian atau pelindung dari CPU. Bentuk yang umum adalah kotak persegi, namun bisa dengan modifikasi bagi mereka yang senang mengotak-atik casing ini.  Selain sebagai pelindung CPU, casing juga bisa berfungsi sebagai pendingin tambahan. Karena biasanya, casing modern saat ini dilengkapi dengan kipas pendingin yang jumlah nya bisa lebih dari satu buah.
+                                    Fungsi lainnya yang utama adalah sebagai pondasi untuk menempatkan berbagai bagian komputer lainnya, terutama CPU, seperti motherboard, vga card, soundcard dan lain-lain. Sebagai pelindung, casing bermanfaat melindungi bagian dalamnya dari kotoran atau debu, dari benturan dengan benda lain, sehingga bagian-bagian yang vital akan aman dan tidak cepat rusak. Selain fungsi primernya tersebut, casing juga dapat tampil dengan berbagai macam warna dan bentuk yang sesuai dengan keinginan kita. Tentu saja casing hasil modifikasi ini harganya lebih mahal. Yang terpenting dalam pemilihan casing adalah fungsi utamanya. Sehingga komputer kita berada dalam keadaan yang aman dan terlindungi.<br/><br/>
+                                    <h3>Motherboard</h3>
+                                    <img src="http://4.bp.blogspot.com/-YbR6tZYgjRc/UpYVSdeVs2I/AAAAAAAABc0/5xV52fPMdb4/s1600/bigmb.jpg" class="img-circle" style="width:100px" /><br/><br/>
+                                    Motherboard atau biasa juga disebut mainboard merupakan sebuah papan utama dimana terdapat komponen-komponen serta chip controller yang bertugas mengatur lalu lintas data dalam sistem motherboard. Fungsi umum dari Motherboard adalah tempat memasangkan processor, RAM, VGA Card, Sound Card, Internal Modem, dan lain - lain. Motherboard juga merupakan bagian induk atau utama yang berada dalam CPU. Berfungsi sebagai papan circuit dari berbagai macam komponen pendukung lainnya. Di antara slot pada papan utama, terdapat slot yang khusus digunakan untuk pemasangan prosesor yang dinamakan soket dan slot 1. Motherboard memiliki beberapa jenis soket yang berbeda-beda, sesuai dengan perkembangan jenis prosesor.
+                                    <br/><br/>
+                                    <h3>Power Suppy</h3>
+                                    <img src="http://2.bp.blogspot.com/-PBSWdm_HfeM/UpYWnrnTqDI/AAAAAAAABdI/jrdrBwvbmsw/s1600/Computer-Power-Supply-PC500W-.jpg" class="img-circle" style="width:100px" /><br/><br/>
+                                    Power supply berfungsi mengalirkan listrik ke setiap bagian komputer agar dapat berjalan. Yang biasa dipakai di PC adalah jenis ATX. Untuk lebih jelasnya lihat gambar di bawah ini.<br/>
+                                    Bagian belakang terdiri dari socket penghubung ke monitor dan power listrik. Juga terdapat fan atau kipas angin, yang berfungsi mendinginkan udara di dalam kotak power supply tersebut. Bagian depan terdiri dari kabel-kabel kecil untuk mengalirkan listrik ke setiap bagian di dalam CPU atau motherboard. Tentu saja listrik yang mengalir sudah minim atau diperkecil. Sedangkan di power supply itu sendiri voltase listrik masih besar, sehingga dilarang keras menyentuhnya.
+                                    <br/><br/>
+                                    <h3>CPU</h3>
+                                    <img src="http://3.bp.blogspot.com/-FdVXAE3vKME/UpYYPh5nsxI/AAAAAAAABdU/1lLo-uhcQjE/s1600/processor3.jpg" class="img-circle" style="width:100px" /><br/><br/>
+                                    Prosesor atau CPU adalah chip yang terdiri dari jutaan transistor. CPU berfungsi sebagai otaknya komputer dalam memproses data. Untuk komputer kelas desktop, standar menggunakan Processor Intel Pentium 4 atau Processor AMD Athlon 64. Semakin berat program yang dijalankan, maka tuntutan prosesor dengan kapasitas besar pun lebih besar.
+                                    <br/><br/>
+                                    <h3>HDD</h3>
+                                    <img src="http://2.bp.blogspot.com/-snf8Ps0fUmQ/UpYZhPA9laI/AAAAAAAABdg/bwhPgKFivUI/s1600/Seagate-Hard-Disk.jpg" class="img-circle" style="width:100px"/><br/><br/>
+                                    Hardisk adalah komponen yang berbentuk persegi empat yang berisi platter atau piringan yang mirip dengan piringan hitam, head, papan elektronik, motor penggerak, dan komponen lainnya, yang dilapisi atau dibungkus oleh casing yang kuat. Tentu kita tau hard disk sangatlah penting karena  berguna sebagai media penyimpanan data – data dan program bahkan sebagai boot device utama komputer . Hard disk berbeda dengan RAM. Hard disk bias menyimpan data secara permanen meski computer dalam keadaan mati. Semakin besar kapasitas suatu hard disk, maka data yang bias disimpan pun semakin besar.
+                                    <br/><br/>
+                                    <h3>VGA Card</h3>
+                                    <img src="https://3.bp.blogspot.com/-7haNEsmyXbo/UpYcMbSzreI/AAAAAAAABeA/qMsASFnTAPo/s1600/nvidia-geforce-graphics-card-2.jpg" class="img-circle" style="width:100px"/><br/<br/>
+                                    VGA card merupakan bagian komputer, di dalam CPU yang berperan penting untuk menampilkan output process ke monitor. Tanpa VGA card, layar komputer tidak akan menampilkan apa-apa alias blank. VGA card sangat penting karena menentukan kualitas gambar. VGA card sendiri ada yang berupa slot tambahan ataupun bawaan produsen motherboard atau disebut juga VGA on board. VGA juga memiliki processor yang dinamakan GPU(Graphics Processing Unit) dan membutuhkan memory juga.
+                                    <br/><br/>
+                                    <h3>PCI Slot [ AGP ]</h3>
+                                    <img src="https://1.bp.blogspot.com/-NLaQy1W6HkI/UpYdFNu8dsI/AAAAAAAABeM/nUD5wWdn2Ew/s1600/agp.jpg" class="img-circle" style="width:100px"/><br/><br/>
+                                    PCI (Peripheral Component Interconnect) adalah bus yang didesain untuk menangani beberapa perangkat keras. PCI juga adalah suatu bandwidth tinggi yang populer, prosesor independent bus itu dapat berfungsi sebagai bus mezzenine atau bus periferal. Standar bus PCI ini dikembangkan oleh konsorsium PCI Special Interest Group yang dibentuk oleh Intel Corporation dan beberapa perusahaan lainnya, pada tahun 1992. Tujuan dibentuknya bus ini adalah untuk menggantikan Bus ISA/EISA yang sebelumnya digunakan dalam komputer IBM PC atau kompatibelnya.
+                                    <br/><br/>
+                                    <h3>Heatsink</h3>
+                                    <img src="https://1.bp.blogspot.com/-Z7SvYyNP3uo/UpYeb9BeURI/AAAAAAAABeY/sNco77xw1zQ/s400/heat-sink-aluminum-sheet.jpg" class="img-circle" style="width: 100px"/><br/><br/>
+                                    Heat Sink adalah alat yang berfungsi sebagai pendingin komponen penting dalam rangkaian elektronika seperti chipset, aisi dan processor dengan cara memindahkan panas dari aisi atau processor ke heatsink itu sendiri.
+                                    <br/><br/>
+                                    <h3>SoundCard</h3>
+                                    <img src="https://3.bp.blogspot.com/-IHEhYQpN72U/UpYgcuxuhQI/AAAAAAAABes/ulMHXEBf8VU/s400/d2.jpg" class="img-circle" style="width: 100px"/><br/><br/>
+                                    Sound Card merupakan komponen hardware komputer yang berbentuk chipset pada motherboard atau PCB card (printed circuit board) yang dipasang pada slot PCI di motherboard, dengan memiliki empat komponen utama untuk menerjemahkan analog dan digital. 
+                                    <br/><br/>
+                                    <h3>RAM</h3>
+                                    <img src="https://2.bp.blogspot.com/-0roAGG8vn3Y/UpYjIuNtYLI/AAAAAAAABfE/2zuxm__Yrho/s400/b820881bb870141616146206a459aeaae983e3cf881a6029581dd5a5d103c45d.jpg" class="img-circle" style="width: 100px"/><br/><br/>
+                                    Read-only Memory adalah istilah bahasa Inggris untuk medium penyimpanan data pada komputer. ROM adalah singkatan dari Read-Only Memory, ROM ini adalah salah satu memori yang ada dalam computer. ROM ini sifatnya permanen, artinya program / data yang disimpan didalam ROM ini tidak mudah hilang atau berubah walau aliran listrik di matikan.
+                                    <br/><br/>
+                                    <h3>Input Output [ I/O ]</h3>
+                                    <img src="https://1.bp.blogspot.com/-JjMzqwwK_24/UpYkMEoNiyI/AAAAAAAABfQ/Zl-fPmNLMnM/s640/02-15-ports.gif" class="img-circle" style="width: 100px"/><br/><br/>
+                                    Input Device adalah perangkat keras computer yang berfungsi sebagai alat untuk memasukkan data atau perintah ke dalam computer. Contonya keyboard, card reader,dll.<br/>
+                                    Output Device adalah perangkat keras computer yang berfungsi untuk menampilkan keluaran sebagai hasil pengolahan data. Contohnya soft-copy, hard-copy, speaker.<br/>
+                                    I/O ports adalah bagian yang digunakan untuk menerima atau pun mengirimkan data ke luar sistem. Misalnya adalah modem.
+                                    <br/><br/>
+                                    <h3>Southbridge dan Northbridge</h3>
+                                    <img src="https://1.bp.blogspot.com/-8343oBJyZyA/UpYlBoHDL3I/AAAAAAAABfc/kldY3udupGM/s400/attachment-php.jpg" class="img-circle" style="width: 100px" /><br/><br/>
+                                    Northbridge terhubung langsung ke CPU, dan memungkinkan CPU untuk antarmuka dengan RAM, AGP atau PCI Express, dan Southbridge. Sebuah Northbridge biasanya akan bekerja dekat hanya satu atau dua kelas CPU dan kira-kira hanya satu jenis RAM.
+                                    <br/><br/>
+                                    <h3>Baterai CMOS</h3>
+                                    <img src="https://1.bp.blogspot.com/-bCaudbXrxao/UpYlu9beKDI/AAAAAAAABfg/pmTwIwPhH94/s320/cmos-battery-check.jpg" class="img-circle" style="width: 100px"/><br/><br/>
+                                    BIOS atau sering disebut juga dengan CMOS singkatan dari Complementary Metal Oxide Semiconductor. Dari bentuknya sudah kelihatan, ia merupakan komponen berbentuk IC (integrated circuit) yang fungsinya menampung setting BIOS dan dapat tetap menyimpan settingannya, selama baterai yang mendayainya masih bagus.
+                                    <br/><br/>
+                                    <h3>BIOS</h3>
+                                    <img src="https://2.bp.blogspot.com/-B5v_w5ECoOA/UpYmhqSgd2I/AAAAAAAABfw/W1EzHGA-8gk/s320/bios+2.jpg" class="img-circle" style="width: 100px"/><br/><br/>
+                                    Semua motherboard termasuk blok kecil dari Read Only Memory ( ROM ) yang terpisah dari sistem memori utama yang digunakan untuk memuat dan menjalankan perangkat lunak. BIOS kemungkinan besar akan disimpan dalam chip 32-pin, yang biasanya dapat diidentifikasi dengan perak atau emas stiker yang menunjukkan nama dari BIOS perusahaan - seperti AMIBIOS, AWARD atau Phoenix - dan kode yang menunjukkan versi kode di dalamnya. Jika yang persegi panjang dalam bentuk, itu apa yang dikenal sebagai DIP (Dual In-line Package) chip. Motherboard tua mungkin memiliki 28-pin DIP chip BIOS. Jika chip BIOS persegi dengan koneksi di keempat sisinya, berada dalam paket (Plastik timbal Chip Carrier) PLCC. Sebuah takik lokasi menunjukkan orientasi pin 1.
+                                    <br/><br/>
+                                    <h3>Audio Chip</h3>
+                                    <img src="https://4.bp.blogspot.com/-4n9Nz0Yg3HE/UpYn7pAEKyI/AAAAAAAABf8/tV40hdpLXQg/s320/audio.jpg" class="img-circle" style="width: 100px"/><br/><br/>
+                                    <h3>CD/DVD ROM</h3>
+                                    <img src="https://1.bp.blogspot.com/-7Y_m8HkBxOA/UpYqIe5kC4I/AAAAAAAABgI/ovMlpeLl5Qg/s320/dvd+rom.jpg" class="img-circle" style="width: 100px"/><br/><br/>
+                                    <h3>LAN Card</h3>
+                                    <img src="https://2.bp.blogspot.com/-JRGupJH6r1g/UpYqz02Ky2I/AAAAAAAABgM/UD-Axi-wrYg/s320/lan-card.jpg" class="img-circle" style="width: 100px"/><br/><br/>
+                                    Kartu jaringan (network interface card disingkat NIC atau juga network card) adalah sebuah kartu yang berfungsi sebagai jembatan dari komputer ke sebuah jaringan komputer. Jenis NIC yang beredar, terbagi menjadi dua jenis, yakni NIC yang bersifat fisik, dan NIC yang bersifat logis. Contoh NIC yang bersifat fisik adalah NIC Ethernet, Token Ring, dan lainnya; sementara NIC yang bersifat logis adalah loopback adapter dan Dial-up Adapter. Disebut juga sebagai Network Adapter. Setiap jenis NIC diberi nomor alamat yang disebut sebagai MAC address, yang dapat bersifat statis atau dapat diubah oleh pengguna.
+                                    <br/><br/>
+                                    <h3>Floppy Disk Drive (Bila Masih Ada)</h3>
+                                    <img src="https://2.bp.blogspot.com/-4DnbD1KLBCo/UpYrgGd-XnI/AAAAAAAABgY/zBkBQ4_5wic/s320/floppy+disk.jpg" class="img-circle" style="width: 100px"/><br/><br/>
+                                    Floppy Disk Drive (FDD) adalah perangkat penyimpanan yang membaca dan menulis informasi ke floppy disk. dengan menggunakan FDD dengan daya dari power supply. Sebuah kabel data floppy menghubungkan FDD pada motherboard.
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.col-lg-4 -->
+                </div>
+                <!-- /.row -->
+            </div>
+            <!-- /#page-wrapper -->
+
+        </div>
+        <!-- /#wrapper -->
+
+        <!-- jQuery -->
+        <script src="https://blackrockdigital.github.io/startbootstrap-sb-admin-2/vendor/jquery/jquery.min.js"></script>
+
+        <!-- Bootstrap Core JavaScript -->
+        <script src="https://blackrockdigital.github.io/startbootstrap-sb-admin-2/vendor/bootstrap/js/bootstrap.min.js"></script>
+
+        <!-- Metis Menu Plugin JavaScript -->
+        <script src="https://blackrockdigital.github.io/startbootstrap-sb-admin-2/vendor/metisMenu/metisMenu.min.js"></script>
+
+        <!-- Custom Theme JavaScript -->
+        <script src="https://blackrockdigital.github.io/startbootstrap-sb-admin-2/dist/js/sb-admin-2.js"></script>
+
+    </body>
+</html>
